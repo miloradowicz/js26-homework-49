@@ -32,5 +32,5 @@ class Board {
   }
 }
 
-const board = new Board(30, 20);
+const board = new Board(8, 8);
 board.print();
